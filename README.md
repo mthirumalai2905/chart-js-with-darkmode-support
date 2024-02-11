@@ -2,6 +2,11 @@
 
 This project is a dashboard created using Chart.js library to visualize data in various chart formats.
 
+
+
+[screen.webm](https://github.com/mthirumalai2905/chart-js-with-darkmode-support/assets/98790479/3960ee75-5652-4f27-bc60-c8f6da8ec54e)
+
+
 ## Technologies Used
 
 - React.js
