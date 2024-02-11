@@ -24,4 +24,4 @@ This project is a dashboard created using Chart.js library to visualize data in 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   https://github.com/mthirumalai2905/chart-js-with-darkmode-support.git
