@@ -542,7 +542,7 @@ const scatterChart = new Chart(scatterCtx, {
 
 
   return (
-    <div className={`container ${backgroundColor}`}>
+    <div className="container">
      <button  className="toggle-button" onClick={toggleBackgroundColor}>Change Modes</button>
     <div className='bar-g'>
     <div className="chart-wrapper">

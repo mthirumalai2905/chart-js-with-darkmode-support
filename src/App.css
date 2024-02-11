@@ -66,3 +66,24 @@ body {
   background-color: white;
   color: black;
 }
+@media (max-width: 768px) {
+  .toggle-button{
+     margin-left: 5px;
+  }
+  .container {
+    display: flex; /* Adjust the width of the container for smaller screens */
+    flex-direction: column;
+  }
+  .bar-g{
+    display: flex; /* Adjust the width of the container for smaller screens */
+    flex-direction: column;
+  }
+  .various{
+    display: flex; /* Adjust the width of the container for smaller screens */
+    flex-direction: column;
+  }
+  .other{
+    display: flex; /* Adjust the width of the container for smaller screens */
+    flex-direction: column;
+  }
+}
