@@ -1,0 +1,68 @@
+
+.chart-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.canvas-top-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.various{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.chart-wrapper-radar{
+  width: 500px;
+  height: auto;
+}
+.other{
+  margin-top: 10px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+.bar-g{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Define the default style for the button */
+.toggle-button {
+  margin-left: 700px;
+  background-color: rgba(54, 162, 235, 0.2);
+  color: rgb(41, 33, 248);
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 7px;
+  font-family: sans-serif;
+  border: 1px solid  rgb(41, 33, 248);
+}
+
+
+
+
+/* Define the default style for the body */
+body {
+  background-color: black;
+  color: white;
+}
+
+/* Define the style for the body when the toggle class is applied */
+.body-white {
+  background-color: white;
+  color: black;
+}
